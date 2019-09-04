@@ -1,0 +1,5 @@
+#!/bin/bash
+setxkbmap -layout us -variant dvp -option compose:102 -option keypad:atm -option numpad:shift3 -option kpdl:semi
+sleep 1;               
+echo "running xmodmap"
+xmodmap ~/.xmodmap
