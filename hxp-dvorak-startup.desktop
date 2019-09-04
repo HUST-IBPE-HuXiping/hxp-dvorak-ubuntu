@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/hxp/.xmodstartup
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=hxp-dvorak
+Name=hxp-dvorak
+Comment[en_US]=
+Comment=
