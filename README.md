@@ -5,11 +5,12 @@
 
 ## Changed the keyboard layout to a more favorable one
 * TAB -> Page Down
-* CapsLock -> TAB
+* CapsLock -> Space
 * LCtrl -> LSuper
 * LSuper -> LCtrl
 * Menu -> RCtrl
 * RCtrl -> Page Up
+* Space -> Tab
 
 ## Changed the keyboard layout to programmer dvorak
 * See: [Programmer Dvorak](https://www.kaufmann.no/roland/dvorak/)
