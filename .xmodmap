@@ -11,3 +11,7 @@ clear Mod4
 add Control = Control_R
 add Control = Control_L
 add Mod4 = Super_R Super_L
+
+
+keycode 65 = Tab NoSymbol Tab
+keycode 66 = space NoSymbol space
